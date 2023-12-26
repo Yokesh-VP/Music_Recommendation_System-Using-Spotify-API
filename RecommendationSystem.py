@@ -91,6 +91,7 @@ def playlist_info(playlist_id,access_token):
         }
         music_data.append(track_data)
     df = pd.DataFrame(music_data)
+    df.dropna(inplace=True)
     return df
 
 
