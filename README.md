@@ -14,9 +14,11 @@ Our recommendations help you find audio you’ll enjoy, whether that’s an old 
 
 Our personalized recommendations are tailored to your unique taste, taking into account a variety of factors, such as similar audio features and similar track names
 
+
 ## How to insatll it?
 
 Here lies my Streamlit app! Check it out [here](https://music-recommendation-app.streamlit.app/).
+![web](https://github.com/Yokesh-VP/Music_Recommendation_System-Using-Spotify-API/assets/145176798/e4940c06-a2a0-40ed-b259-6cb63beac821)
 
 
 ## License
