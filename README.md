@@ -15,7 +15,7 @@ Our recommendations help you find audio you’ll enjoy, whether that’s an old 
 Our personalized recommendations are tailored to your unique taste, taking into account a variety of factors, such as similar audio features and similar track names
 
 
-## How to insatll it?
+## How to install it?
 
 Here lies my Streamlit app! Check it out [here](https://musicrecommendationmodel.streamlit.app/).
 
