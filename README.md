@@ -17,7 +17,7 @@ Our personalized recommendations are tailored to your unique taste, taking into 
 
 ## How to insatll it?
 
-Here lies my Streamlit app! Check it out [here](https://music-recommendation-app.streamlit.app/).
+Here lies my Streamlit app! Check it out [here](https://musicrecommendationmodel.streamlit.app/).
 
 
 ![web](https://github.com/Yokesh-VP/Music_Recommendation_System-Using-Spotify-API/assets/145176798/e4940c06-a2a0-40ed-b259-6cb63beac821)
